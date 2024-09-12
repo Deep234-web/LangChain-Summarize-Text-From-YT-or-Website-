@@ -9,7 +9,7 @@ This project uses LangChain and Groq's Gemma-7b-It model to summarize content fr
 - Supports both YouTube URLs and general website URLs.
 
 ## Usage
-- Open the live app in your browser [at http://localhost:8501.](https://gwoqrmpxm5pm6rzadwpszi.streamlit.app/)
+- Open the live app in your browser (https://gwoqrmpxm5pm6rzadwpszi.streamlit.app/)
 - Enter your Groq API key in the sidebar to enable summarization features.
 - Paste either a YouTube video URL or a website URL in the main text input field.
 - Click the "Summarize the Content from YT or Website" button to generate a summary.
